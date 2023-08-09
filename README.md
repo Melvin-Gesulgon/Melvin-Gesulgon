@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melvin</h1>
 <h3 align="center">A web developer from Philippines</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **cycling, bonsai and digital art**
 
